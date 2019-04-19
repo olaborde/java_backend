@@ -1,0 +1,31 @@
+
+
+.main-menu {
+
+margin-left: 40px;
+margin-right: 60px;
+}
+
+h2{
+	text-align: center;
+}
+
+
+.options{
+	
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+	
+}
+
+
+.login-form {
+  background: rgb(200, 54, 54); /* The Fallback to make background for alpha transparency support*/	
+  background: rgba(200, 54, 54, 0.5); 
+  border-radius: 25px;
+  opacity: 1;
+  filter: Alpha(opacity=50); /* IE8 and earlier */
+	
+}

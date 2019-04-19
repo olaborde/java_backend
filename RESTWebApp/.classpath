@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-core-4.3.11.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jandex-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jboss-logging-3.1.3.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aop-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aop-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aop-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aspects-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aspects-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-aspects-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-beans-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-beans-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-indexer-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-indexer-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-indexer-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-support-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-support-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-context-support-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-core-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-core-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-expression-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-expression-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-expression-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-instrument-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-instrument-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-instrument-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jcl-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jcl-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jcl-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jdbc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jdbc-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jdbc-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jms-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jms-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-jms-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-messaging-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-messaging-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-messaging-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-orm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-orm-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-orm-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-oxm-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-oxm-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-oxm-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-test-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-test-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-test-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-tx-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-tx-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-tx-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-web-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-web-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webflux-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webflux-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webflux-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webmvc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webmvc-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-webmvc-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-websocket-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-websocket-5.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/spring-websocket-5.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Downloads/lib/lib/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/byte-buddy-1.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/hibernate-core-5.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/required/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/osse.laborde/Desktop/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/ext/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/jaxrs-ri-2.25/jaxrs-ri/api/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/ecj-4.7.3a.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/TEMP/Java Dev Training/apache-tomcat-9.0.10/apache-tomcat-9.0.10/lib/websocket-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_172">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
