@@ -16,7 +16,7 @@ import com.ol.beans.Contact;
 
 @Path("/webservice")
 public class WebController {
-//	
+	
 	private static Map<Integer, Contact> contacts = new HashMap<Integer, Contact>();
 
 	static {
@@ -26,7 +26,7 @@ public class WebController {
 
 	}
 
-//	
+	
 	@GET
 	@Path("/hello")
 	@Produces("text/plain")
@@ -36,7 +36,7 @@ public class WebController {
 
 	@GET
 	@Path("/contacts/{id}")
-//	@Produces("application/json")
+
 	public Contact getContact(@PathParam("id") int id) throws Exception {
 		if (contacts.get(id) != null) {
 			return contacts.get(id);
@@ -63,8 +63,7 @@ public class WebController {
 	
 	@POST
     @Path("/contacts/byjson")
-   // @Consumes("MediaType.APPLICATION_FORM_URLENCODED")
-//    @Produces("application/xml")
+
     public Contact createContact1(  Contact contact)throws Exception
     {  
         try{
@@ -83,7 +82,7 @@ public class WebController {
 	
 	@POST
     @Path("/contacts")
-   // @Consumes("MediaType.APPLICATION_FORM_URLENCODED")
+   
     @Produces("application/json")
     public Contact createContact( @FormParam("id")String id,@FormParam("name")String name)throws Exception
     {  
